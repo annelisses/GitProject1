@@ -8,4 +8,9 @@ public class DemoDay5 {
 	public static void getData(){
 		System.out.println("Hey you guys!");
 	}
+	// add method
+	public static void getInfo() {
+		System.out.println("Hello World");
+	}
+
 }
